@@ -1,0 +1,4 @@
+flask==2.3.2
+werkzeug==2.3.8
+python-dateutil==2.8.2
+pytest==7.0.1
